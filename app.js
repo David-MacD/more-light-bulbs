@@ -1,9 +1,9 @@
 /*
 Learning Objectives:
   1. Understand and utilize DOM element selection.
-	2. Understand the different types that DOM methods work with.
+  2. Understand the different types that DOM methods work with.
   3. Implement a single event listener that handles clicks over multiple
-			elements, and use the event object to discriminate.
+      elements, and use the event object to discriminate.
   4. Take elements out of the DOM and insert elements into the DOM
 
 Brief:
